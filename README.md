@@ -1,4 +1,4 @@
-#Ravenous - A Yelp Clone
+# Ravenous - A Yelp Clone
 
 This App was developed as part of the Codecademy's **Create a Front-End App with React** course.
 
